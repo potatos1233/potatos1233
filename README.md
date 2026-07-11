@@ -30,15 +30,6 @@
 
 ---
 
-### 🧐 About Me
-
-- 🥔 **Name:** Potato
-- 💻 **Mission:** Turning caffeine into code, one line at a time
-- 🌱 **Currently:** Growing (as a developer... and as a potato)
-- ⚡ **Fun fact:** I have eyes but I can't see 👀 (potato joke, anyone?)
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
