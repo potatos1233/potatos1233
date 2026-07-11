@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&text=POTATOS&fontSize=70&color=0:F4D03F,50:FF8C00,100:E67E22&stroke=000000&strokeWidth=2&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&text=potatos1233&fontSize=60&color=0:F4D03F,50:FF8C00,100:E67E22&stroke=000000&strokeWidth=2&fontColor=ffffff" />
 
   <br><br>
 
@@ -10,7 +10,7 @@
 
   <br><br>
 
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="180" />
+  <img src="https://media1.tenor.com/m/owL3ncNNXpUAAAAC/playboi-carti-dead.gif" width="250" />
 
   <br><br>
 
