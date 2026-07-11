@@ -1,5 +1,14 @@
 <div align="center">
 
+  <!-- ASCII Art Header -->
+  <pre>
+   ____  ____ _____ ____ _____ ____  ____  _  ____ _____ _____
+  /  __\/  _ Y__ __Y  _ Y__ __Y  _ \/ ___\/ \/_   \\__  \\__  \
+  |  \/|| / \| / \ | / \| / \ | / \||    \| | /   /  /  |  /  |
+  |  __/| \_/| | | | |-|| | | | \_/|\___ || |/   /_ _\  | _\  |
+  \_/   \____/ \_/ \_/ \| \_/ \____/\____/\_/\____//____//____/
+  </pre>
+
   <!-- Animated typing header -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F4D03F&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Potato+%F0%9F%A5%94;Welcome+to+my+GitHub!" alt="Typing SVG" />
